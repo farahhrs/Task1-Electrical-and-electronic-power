@@ -80,5 +80,7 @@ To operate the brushless motor follow these steps:
 ####  Suggestion to control the rotation direction of the motor:
 
 - We can use 2 pushbuttons (or switches), each one must be connected to an Arduino's pin, also we should use two resistors and each one of the resistors must be connected to a GND on the Arduino and to the pushbutton, finally we should connect the pushbuttons to the 5V pin on the Arduino. 
-- If the first pushbutton clicked the motor rotation direction will be forward, and if the second pushbutton clicked the motor rotation will be backward 
+- We should define the pins that are connected to the pushbuttons.
+- Inside the "void setup()" we should declare thi=eir pinMode as INPUT.
+- Inside the "void loop()" we should use the digitalRead of those pins, and write if-else statements to control the rotation direction, if the first pushbutton clicked the motor rotation direction will be forward, and if the second pushbutton clicked the motor rotation will be backward.
 
