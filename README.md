@@ -73,7 +73,7 @@ To operate the brushless motor follow these steps:
 
 4- Configure the pins as OUTPUT using "pinMode" function inside the "void setup()".
 
-5- Use "digitalWrite" function to assign the pin a HIGH or a LOW value inside the "void loop()", if the two pins that are connected to the burshless motor have the same value it will never move, if they differ the motor rotation direction will either forward(input1> HIGH, input2> LOW) or backward(input1> LOW, input2> HIGH).
+5- Use "digitalWrite" function to assign the pin a HIGH or a LOW value inside the "void loop()", if the two pins that are connected to the burshless motor have the same value it will never rotate, if they differ the motor rotation direction will be either forward(input1> HIGH, input2> LOW) or backward(input1> LOW, input2> HIGH).
 
 6- Click on start simulation.
 
