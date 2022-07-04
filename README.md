@@ -16,6 +16,9 @@ This circuit contains the following components:
 - H-bridge Motor Driver.
 - 416 DC Motor with encoder(Brushless Motor).
 
+
+Note: In this circuit, the rotation direction of the motor on the top is forward, and to the bottom one is backward.
+
 ### The code:
 ```
 // C++ code
