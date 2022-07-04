@@ -67,17 +67,17 @@ To operate the brushless motor follow these steps:
 - H-bridge Motor Driver.
 - 416 DC Motor with encoder(Brushless Motor).
 
-2- Connect the components with the appropriate pins in the Arduino.
+2- Connect the components with the appropriate pins on the Arduino.
 
 3- Start writing the code by defining the pins by using #define or const.
 
-4- Configure the pins as either INPUT or OUTPUT using "pinMode" function inside "void setup()".
+4- Configure the pins as either INPUT or OUTPUT using "pinMode" function inside the "void setup()".
 
 5- Use "digitalWrite" function to assign the pin a HIGH or a LOW value inside the "void loop()", if the two pins of the burshless motor have the same value it will never move, if they differ the motor rotation direction will either forward(input1> HIGH, input2> LOW) or backward(input1> LOW, input2> HIGH).
 
 6- Click on start simulation.
 
-#### Another way to control the rotation direction of the motor:
+####  Suggestion to control the rotation direction of the motor:
 
 - We can use 2 pushbuttons (or switches), each one must be connected to an Arduino's pin, also we should use two resistors and each one of the resistors must be connected to a GND on the Arduino and to the pushbutton, finally we should connect the pushbuttons to the 5V pin on the Arduino. 
 - If the first pushbutton clicked the motor rotation direction will be forward, and if the second pushbutton clicked the motor rotation will be backward 
