@@ -149,6 +149,6 @@ void loop()
   
 }
 ```
-Click [here](https://github.com/farahhrs/Task1-Electrical-and-electronic-power/blob/033b5fbab0b1ade4a48abd17d74b330d95883864/Stepper%20motor/Stepper%20motor.png)to see the electronic circuit.
+Click [here](https://github.com/farahhrs/Task1-Electrical-and-electronic-power/blob/033b5fbab0b1ade4a48abd17d74b330d95883864/Stepper%20motor/Stepper%20motor.png) to see the electronic circuit.
 
-Click [here](https://www.tinkercad.com/things/6w6bSyS4Dvu-super-snaget/editel?sharecode=gGQdMWfQiblBYjOrRCbMnDef73wEdq1RSbRnWHiwOIQ)to see the simulation of the electronic circuit.
+Click [here](https://www.tinkercad.com/things/6w6bSyS4Dvu-super-snaget/editel?sharecode=gGQdMWfQiblBYjOrRCbMnDef73wEdq1RSbRnWHiwOIQ) to see the simulation of the electronic circuit.
