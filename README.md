@@ -117,3 +117,38 @@ void loop()
 Click [here](https://github.com/farahhrs/Task1-Electrical-and-electronic-power/blob/b4901cc0312cdd3e551fc9921ee0173f6214fe30/Servo%20motor/Servo%20motor.png) to see the electronic circuit.
 
 Click [here](https://www.tinkercad.com/things/joslypxqlR7-shiny-densor/editel?sharecode=F7EKHXuK-3uudYewlMcJxxWqixKkN6O6hd8nDbi-cSg) to see the simulation of the electronic circuit.
+
+## 4-Stepper motor:
+This circuit contains the following components:
+- DC Motor with Encoder
+- Arduino Uno R3
+- H-bridge Motor Driver
+- 9V Battery
+
+### The code:
+```
+#include <Stepper.h>
+const int stepsPerRevolution =120;
+Stepper myStepper(stepsPerRevolution, 11,10,9,8);
+int stepCount= 0; 
+
+void setup()
+{
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  int sensorRead = analogRead(A0);
+  int motorSpeed = map(sensorRead, 0, 1023, 0, 250);
+  if(motorSpeed > 0){
+    myStepper.setSpeed(motorSpeed);
+    myStepper.step(stepsPerRevolution/ 100);
+	Serial.println(sensorRead);
+  }
+  
+}
+```
+Click [here](https://github.com/farahhrs/Task1-Electrical-and-electronic-power/blob/033b5fbab0b1ade4a48abd17d74b330d95883864/Stepper%20motor/Stepper%20motor.png)to see the electronic circuit.
+
+Click [here](https://www.tinkercad.com/things/6w6bSyS4Dvu-super-snaget/editel?sharecode=gGQdMWfQiblBYjOrRCbMnDef73wEdq1RSbRnWHiwOIQ)to see the simulation of the electronic circuit.
