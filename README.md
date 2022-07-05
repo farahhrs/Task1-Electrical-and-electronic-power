@@ -5,7 +5,7 @@ This repository contains 4 parts:
 
 2- [Brushless motor algoritm](https://github.com/farahhrs/Task1-Electrical-and-electronic-power/blob/main/README.md#2--brushless-motor-algoritm).
 
-3- Servo motor.
+3- [Servo motor](https://github.com/farahhrs/Task1-Electrical-and-electronic-power/blob/main/README.md#3--servo-motor).
 
 4- Stepper motor.
 
