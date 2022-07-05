@@ -88,4 +88,29 @@ To operate the brushless motor follow these steps:
 - Inside the "void loop()" we should use the digitalRead of those pins, and write if-else statements to control the rotation direction, if the first pushbutton clicked (have a HIGH value) the motor rotation direction will be forward, and if the second pushbutton clicked (have a HIGH value) the motor rotation direction will be backward.
 
 ## 3- Servo motor:
+This simple circuit contains the following components:
+- Arduino Uno R3.
+- Positional Micro Servo.
 
+
+Note:
+
+### The code:
+```
+// C++ code
+//
+int servo= 4;
+
+void setup()
+{
+  pinMode(servo, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(servo, HIGH);
+  delay(500); // Wait for 1000 millisecond(s)
+  digitalWrite(servo, LOW);
+  delay(500); // Wait for 1000 millisecond(s)
+}
+```
