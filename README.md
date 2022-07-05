@@ -5,7 +5,7 @@ This repository contains 4 parts:
 
 2- Brushless motor algoritm.
 
-3-Servo motor.
+3- Servo motor.
 
 4- Stepper motor.
 
