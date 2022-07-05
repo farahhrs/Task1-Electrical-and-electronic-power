@@ -87,3 +87,5 @@ To operate the brushless motor follow these steps:
 - Inside the "void setup()" we should declare the pinMode of the pushbuttons as INPUT.
 - Inside the "void loop()" we should use the digitalRead of those pins, and write if-else statements to control the rotation direction, if the first pushbutton clicked (have a HIGH value) the motor rotation direction will be forward, and if the second pushbutton clicked (have a HIGH value) the motor rotation direction will be backward.
 
+## 3- Servo motor:
+
