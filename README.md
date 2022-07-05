@@ -1,9 +1,9 @@
 # Task1-Electrical-and-electronic-power
 This repository contains 4 parts:
 
-1- Brushless motor electronic circuit.
+1- [Brushless motor electronic circuit](https://github.com/farahhrs/Task1-Electrical-and-electronic-power/blob/main/README.md#1--brushless-motor-electronic-circuit).
 
-2- Brushless motor algoritm.
+2- [Brushless motor algoritm](https://github.com/farahhrs/Task1-Electrical-and-electronic-power/edit/main/README.md#2--brushless-motor-algoritm).
 
 3- Servo motor.
 
