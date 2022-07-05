@@ -1,7 +1,7 @@
 # Task1-Electrical-and-electronic-power
 This repository contains 4 parts:
 
-1- Brushless motor electronic circuit
+1- Brushless motor electronic circuit.
 
 2- Brushless motor algoritm.
 
