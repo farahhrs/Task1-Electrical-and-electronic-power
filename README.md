@@ -1,5 +1,5 @@
 # Task1-Electrical-and-electronic-power
-This repository contains 4 parts:
+This repository contains 4 subtasks:
 
 1- [Brushless motor electronic circuit](https://github.com/farahhrs/Task1-Electrical-and-electronic-power/blob/main/README.md#1--brushless-motor-electronic-circuit).
 
