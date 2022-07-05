@@ -93,7 +93,7 @@ This simple circuit contains the following components:
 - Positional Micro Servo.
 
 
-Note:
+Note: The servo motor will rotate every 500 milliseconds.
 
 ### The code:
 ```
@@ -109,8 +109,8 @@ void setup()
 void loop()
 {
   digitalWrite(servo, HIGH);
-  delay(500); // Wait for 1000 millisecond(s)
+  delay(500); // Wait for 500 millisecond(s)
   digitalWrite(servo, LOW);
-  delay(500); // Wait for 1000 millisecond(s)
+  delay(500); // Wait for 500 millisecond(s)
 }
 ```
