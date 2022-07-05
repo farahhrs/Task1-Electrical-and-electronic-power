@@ -7,7 +7,7 @@ This repository contains 4 parts:
 
 3- [Servo motor](https://github.com/farahhrs/Task1-Electrical-and-electronic-power/blob/main/README.md#3--servo-motor).
 
-4- Stepper motor.
+4- [Stepper motor](https://github.com/farahhrs/Task1-Electrical-and-electronic-power/blob/main/README.md#4-stepper-motor).
 
 ## 1- Brushless motor electronic circuit:
 This circuit contains the following components:
