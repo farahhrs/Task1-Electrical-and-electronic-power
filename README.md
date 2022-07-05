@@ -59,7 +59,7 @@ void loop(){
 ```
 Click [here](https://github.com/farahhrs/Task1-Electrical-and-electronic-power/blob/52d6c70d2c14be73c47313031ebe186a6e11ff0b/Brushless%20motor%20electronic%20circuit.png) to see the electronic circuit.
 
-Click [here](https://www.tinkercad.com/things/61wjgfv8Y8t-glorious-fulffy-esboo/editel) to see the simulatation of the  electronic circuit.
+Click [here](https://www.tinkercad.com/things/61wjgfv8Y8t-glorious-fulffy-esboo/editel?sharecode=d7nCwHONFTlWHCqBLu08L8OclMTHsXHr4rm-kmkNkkE) to see the simulatation of the  electronic circuit.
 
 ## 2- Brushless motor algoritm:
 To operate the brushless motor follow these steps:
@@ -115,4 +115,5 @@ void loop()
 }
 ```
 Click [here](https://github.com/farahhrs/Task1-Electrical-and-electronic-power/blob/b4901cc0312cdd3e551fc9921ee0173f6214fe30/Servo%20motor/Servo%20motor.png) to see the electronic circuit.
+
 Click [here](https://www.tinkercad.com/things/joslypxqlR7-shiny-densor/editel?sharecode=F7EKHXuK-3uudYewlMcJxxWqixKkN6O6hd8nDbi-cSg) to see the simulate=ation of the electronic circuit.
