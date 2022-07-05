@@ -114,5 +114,5 @@ void loop()
   delay(500); // Wait for 500 millisecond(s)
 }
 ```
-Click [here](https://github.com/farahhrs/Task1-Electrical-and-electronic-power/blob/b4901cc0312cdd3e551fc9921ee0173f6214fe30/Servo%20motor/Servo%20motor.png) to see the circuit.
-Click [here](https://www.tinkercad.com/things/joslypxqlR7-shiny-densor/editel?sharecode=F7EKHXuK-3uudYewlMcJxxWqixKkN6O6hd8nDbi-cSg) to simulate the circuit.
+Click [here](https://github.com/farahhrs/Task1-Electrical-and-electronic-power/blob/b4901cc0312cdd3e551fc9921ee0173f6214fe30/Servo%20motor/Servo%20motor.png) to see the electronic circuit.
+Click [here](https://www.tinkercad.com/things/joslypxqlR7-shiny-densor/editel?sharecode=F7EKHXuK-3uudYewlMcJxxWqixKkN6O6hd8nDbi-cSg) to see the simulate=ation of the electronic circuit.
